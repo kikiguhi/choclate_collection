@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" WHITE CHOCOLATE",
+        "price": 7,
+        "image": "./pngwing.com.png"
+    },
+    {
+        "id": 2,
+        "name":" MILK CHOCOLATE",
+        "price": 2.55,
+        "image": "./pngwing.com (1).png"
+    },
+    {
+        "id": 3,
+        "name":" DARK CHOCOLATE",
+        "price": 3.67,
+        "image": "./pngwing.com (1).png"
+    },
+    {
+        "id": 4,
+        "name":" SEMI SWEET CHOCOLATE",
+        "price": 4,
+        "image":"./pngwing.com (3).png"
+    },
+    {
+        "id": 5,
+        "name":" BITTER SWEET CHOCOLATE",
+        "price": 5,
+        "image": "./pngwing.com (4).png"
+    },
+    {
+        "id": 6,
+        "name":" UNSWEETENED CHOCOLATE",
+        "price": 2,
+        "image":"./pngwing.com (5).png"
+    },
+    {
+        "id": 7,
+        "name":" SWEET GERMAN CHOCOLATE",
+        "price": 1,
+        "image": "./pngwing.com (6).png"
+    },
+    {
+        "id": 8,
+        "name":" RUBY CHOCOLATE",
+        "price": 10,
+        "image": "./pngwing.com (7).png"
+    }
+
+]
